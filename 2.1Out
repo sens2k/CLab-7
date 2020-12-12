@@ -1,0 +1,14 @@
+char = 1
+ptr char = 8
+short = 2
+ptr short = 8
+int = 4
+ptr int = 8
+long = 8
+ptr long = 8
+float = 4
+ptr float = 8
+double = 8
+ptr double = 8
+long double = 16
+ptr long double = 8
